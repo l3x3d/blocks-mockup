@@ -1,0 +1,1 @@
+export { IconsLargeDot } from "./IconsLargeDot";

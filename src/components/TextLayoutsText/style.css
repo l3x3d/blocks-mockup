@@ -1,0 +1,26 @@
+.text-layouts-text {
+  height: 24px;
+  position: relative;
+  width: 343px;
+}
+
+.text-layouts-text .text-4 {
+  color: var(--text-colorsprimary);
+  font-family: var(--body-main-regular-15px-font-family);
+  font-size: var(--body-main-regular-15px-font-size);
+  font-style: var(--body-main-regular-15px-font-style);
+  font-weight: var(--body-main-regular-15px-font-weight);
+  height: 24px;
+  left: 0;
+  letter-spacing: var(--body-main-regular-15px-letter-spacing);
+  line-height: var(--body-main-regular-15px-line-height);
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+  width: 307px;
+}
+
+.text-layouts-text .icons-small-right-arrow {
+  left: 323px !important;
+  top: 2px !important;
+}

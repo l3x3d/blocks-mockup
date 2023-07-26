@@ -1,0 +1,131 @@
+.navigation-top {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  height: 80px;
+  position: relative;
+}
+
+.navigation-top .navigation-top-full {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 79px;
+  justify-content: center;
+  position: relative;
+}
+
+.navigation-top .iphone-x-status-bars {
+  height: 44px;
+  position: relative;
+  width: 375px;
+}
+
+.navigation-top .battery {
+  height: 11px;
+  left: 336px;
+  position: absolute;
+  top: 17px;
+  width: 24px;
+}
+
+.navigation-top .overlap-group {
+  border: 1px solid;
+  border-color: #20202059;
+  border-radius: 2.67px;
+  height: 11px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 22px;
+}
+
+.navigation-top .capacity {
+  background-color: var(--text-colorsprimary);
+  border-radius: 1.33px;
+  height: 7px;
+  left: 1px;
+  position: relative;
+  top: 1px;
+  width: 18px;
+}
+
+.navigation-top .cap {
+  height: 4px;
+  left: 23px;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.navigation-top .wifi {
+  height: 11px;
+  left: 316px;
+  position: absolute;
+  top: 17px;
+  width: 15px;
+}
+
+.navigation-top .cellular-connection {
+  height: 11px;
+  left: 294px;
+  position: absolute;
+  top: 18px;
+  width: 17px;
+}
+
+.navigation-top .time-style {
+  height: 21px;
+  left: 21px;
+  position: absolute;
+  top: 13px;
+  width: 54px;
+}
+
+.navigation-top .time {
+  color: #202020;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  width: 54px;
+}
+
+.navigation-top .text-wrapper {
+  letter-spacing: -0.28px;
+}
+
+.navigation-top .span {
+  letter-spacing: 0;
+}
+
+.navigation-top .top-nav-back {
+  height: 29px;
+  position: relative;
+  width: 367px;
+}
+
+.navigation-top .h {
+  color: var(--text-colorsprimary);
+  font-family: var(--h1-regular-23px-font-family);
+  font-size: var(--h1-regular-23px-font-size);
+  font-style: var(--h1-regular-23px-font-style);
+  font-weight: var(--h1-regular-23px-font-weight);
+  left: 52px;
+  letter-spacing: var(--h1-regular-23px-letter-spacing);
+  line-height: var(--h1-regular-23px-line-height);
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 263px;
+}
+
+.navigation-top .icons-medium-left-arrow {
+  left: 12px !important;
+  top: 3px !important;
+}

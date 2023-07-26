@@ -1,0 +1,70 @@
+.pop-ups-misc {
+  height: 80px;
+  width: 197px;
+}
+
+.pop-ups-misc .overlap-group-3 {
+  height: 80px;
+  position: relative;
+}
+
+.pop-ups-misc .mask-wrapper {
+  height: 80px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 197px;
+}
+
+.pop-ups-misc .mask {
+  height: 130px;
+  left: -25px;
+  position: absolute;
+  top: -20px;
+  width: 247px;
+}
+
+.pop-ups-misc .product-name {
+  color: var(--text-colorsprimary);
+  font-family: var(--body-supporting-regular-12px-font-family);
+  font-size: var(--body-supporting-regular-12px-font-size);
+  font-style: var(--body-supporting-regular-12px-font-style);
+  font-weight: var(--body-supporting-regular-12px-font-weight);
+  left: 51px;
+  letter-spacing: var(--body-supporting-regular-12px-letter-spacing);
+  line-height: var(--body-supporting-regular-12px-line-height);
+  position: absolute;
+  top: 7px;
+  width: 110px;
+}
+
+.pop-ups-misc .price {
+  color: var(--text-colorssecondary);
+  font-family: var(--body-supporting-regular-12px-font-family);
+  font-size: var(--body-supporting-regular-12px-font-size);
+  font-style: var(--body-supporting-regular-12px-font-style);
+  font-weight: var(--body-supporting-regular-12px-font-weight);
+  left: 51px;
+  letter-spacing: var(--body-supporting-regular-12px-letter-spacing);
+  line-height: var(--body-supporting-regular-12px-line-height);
+  position: absolute;
+  top: 39px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.pop-ups-misc .icons-small-right-instance {
+  left: 169px !important;
+  top: 25px !important;
+}
+
+.pop-ups-misc .product-layouts-misc-2 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/b4a96f03e53e5be9e50f36c40b8d5fe2/img/image-5@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 56px;
+  left: 8px;
+  position: absolute;
+  top: 8px;
+  width: 35px;
+}

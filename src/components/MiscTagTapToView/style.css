@@ -1,0 +1,39 @@
+.misc-tag-tap-to-view {
+  align-items: center;
+  background-color: var(--fixed-colorsmain-background);
+  border-radius: 4px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 2px 4px;
+  position: relative;
+}
+
+.misc-tag-tap-to-view .content-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2px;
+  justify-content: center;
+  position: relative;
+}
+
+.misc-tag-tap-to-view .icons-small-shopping-bag-filled {
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+}
+
+.misc-tag-tap-to-view .text-5 {
+  color: var(--text-colorsprimary);
+  font-family: var(--body-supporting-regular-12px-font-family);
+  font-size: var(--body-supporting-regular-12px-font-size);
+  font-style: var(--body-supporting-regular-12px-font-style);
+  font-weight: var(--body-supporting-regular-12px-font-weight);
+  letter-spacing: var(--body-supporting-regular-12px-letter-spacing);
+  line-height: var(--body-supporting-regular-12px-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}

@@ -1,0 +1,1 @@
+export { IconsSmallShopping } from "./IconsSmallShopping";

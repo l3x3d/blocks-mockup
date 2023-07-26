@@ -1,0 +1,83 @@
+.misc-other-variant {
+  height: 40px;
+  width: 375px;
+}
+
+.misc-other-variant .overlap {
+  height: 40px;
+  position: relative;
+}
+
+.misc-other-variant .div {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.misc-other-variant .top-line {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.misc-other-variant .middle-line {
+  height: 39px;
+  left: 186px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.misc-other-variant .bottom-line {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 39px;
+  width: 375px;
+}
+
+.misc-other-variant .left-side {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  left: 16px;
+  position: absolute;
+  top: 10px;
+  width: 155px;
+}
+
+.misc-other-variant .text {
+  color: var(--text-colorsprimary);
+  font-family: var(--body-supporting-regular-12px-font-family);
+  font-size: var(--body-supporting-regular-12px-font-size);
+  font-style: var(--body-supporting-regular-12px-font-style);
+  font-weight: var(--body-supporting-regular-12px-font-weight);
+  letter-spacing: var(--body-supporting-regular-12px-letter-spacing);
+  line-height: var(--body-supporting-regular-12px-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: 72px;
+}
+
+.misc-other-variant .icons-small-down-instance {
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+}
+
+.misc-other-variant .right-side {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  left: 203px;
+  position: absolute;
+  top: 10px;
+  width: 155px;
+}

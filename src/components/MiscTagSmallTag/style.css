@@ -1,0 +1,25 @@
+.misc-tag-small-tag {
+  align-items: flex-start;
+  background-color: #11b6831a;
+  border-radius: 4px;
+  display: inline-flex;
+  gap: 10px;
+  overflow: hidden;
+  padding: 4px 8px;
+  position: relative;
+}
+
+.misc-tag-small-tag .text-6 {
+  color: var(--state-colorssuccess-or-positive);
+  font-family: var(--labels-legal-text-regular-10px-font-family);
+  font-size: var(--labels-legal-text-regular-10px-font-size);
+  font-style: var(--labels-legal-text-regular-10px-font-style);
+  font-weight: var(--labels-legal-text-regular-10px-font-weight);
+  letter-spacing: var(--labels-legal-text-regular-10px-letter-spacing);
+  line-height: var(--labels-legal-text-regular-10px-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}

@@ -1,0 +1,41 @@
+.text-layouts-misc {
+  height: 32px;
+  position: relative;
+  width: 343px;
+}
+
+.text-layouts-misc .text-7 {
+  color: var(--text-colorsprimary);
+  font-family: var(--body-supporting-regular-12px-font-family);
+  font-size: var(--body-supporting-regular-12px-font-size);
+  font-style: var(--body-supporting-regular-12px-font-style);
+  font-weight: var(--body-supporting-regular-12px-font-weight);
+  height: 16px;
+  left: 0;
+  letter-spacing: var(--body-supporting-regular-12px-letter-spacing);
+  line-height: var(--body-supporting-regular-12px-line-height);
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+  width: 223px;
+}
+
+.text-layouts-misc .p {
+  color: var(--text-colorssecondary);
+  font-family: var(--body-supporting-regular-12px-font-family);
+  font-size: var(--body-supporting-regular-12px-font-size);
+  font-style: var(--body-supporting-regular-12px-font-style);
+  font-weight: var(--body-supporting-regular-12px-font-weight);
+  height: 16px;
+  left: 0;
+  letter-spacing: var(--body-supporting-regular-12px-letter-spacing);
+  line-height: var(--body-supporting-regular-12px-line-height);
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+  width: 223px;
+}
+
+.text-layouts-misc .logos-small-afterpay-instance {
+  left: 239px !important;
+}

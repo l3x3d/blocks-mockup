@@ -1,0 +1,17 @@
+.button-two-buttons {
+  height: 48px;
+  position: relative;
+  width: 343px;
+}
+
+.button-two-buttons .button-small-standard {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.button-two-buttons .button-small-instance {
+  left: 176px !important;
+  position: absolute !important;
+  top: 0 !important;
+}

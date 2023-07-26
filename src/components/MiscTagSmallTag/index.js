@@ -1,0 +1,1 @@
+export { MiscTagSmallTag } from "./MiscTagSmallTag";

@@ -1,0 +1,1 @@
+export { IconsSmallDown } from "./IconsSmallDown";

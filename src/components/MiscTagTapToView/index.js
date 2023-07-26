@@ -1,0 +1,1 @@
+export { MiscTagTapToView } from "./MiscTagTapToView";

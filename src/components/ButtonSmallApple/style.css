@@ -1,0 +1,37 @@
+.button-small-apple {
+  height: 48px;
+  width: 167px;
+}
+
+.button-small-apple .overlap-group-2 {
+  height: 48px;
+  position: relative;
+}
+
+.button-small-apple .button-small-2 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 167px;
+}
+
+.button-small-apple .background {
+  background-color: var(--fixed-colorsmain-background);
+  border: 1px solid;
+  border-color: var(--text-colorsprimary);
+  border-radius: 4px;
+  height: 50px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 169px;
+}
+
+.button-small-apple .apple-pay-logo {
+  height: 22px;
+  left: 54px;
+  position: absolute;
+  top: 13px;
+  width: 59px;
+}
